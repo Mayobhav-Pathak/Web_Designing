@@ -1,2 +1,2 @@
 # Web_Designing_Notes
-My notes of web designing in a structured way.
+The primary objective is to showcase the use of HTML and CSS .
